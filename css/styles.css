@@ -1,0 +1,39 @@
+body{
+      background-color:aqua;
+}
+.card {
+      align-items: center;
+      border-radius: 20px;
+      display: flex;
+      gap: 16px;
+      background-color: #1A1D22;
+      Width: 281px;
+      height: 122px;
+      padding: 16px 24px 16px 16px;
+      border: #2A2F37;
+}
+.content{
+      width: 153px;
+      height: 90px;
+      gap: 12px;
+      opacity: 1;
+}
+.text{
+      color: white;
+}
+#imgg{
+      width: 72px;
+      height: 72px;
+      border-radius: 100px;
+}
+input[name="Knopka"] {
+      background-color: #00447C;
+      color: white;
+      height: 33px;
+      border-radius: 10px;
+      padding-top: 8px;
+      padding-right: 12px;
+      padding-bottom: 8px;
+      padding-left: 12px;
+      opacity: 1;
+}
